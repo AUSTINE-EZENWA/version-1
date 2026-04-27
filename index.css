@@ -5,5 +5,9 @@
 }
 body{
     background-color: blue;
+    color: chocolate;
     color: white;
+}
+header{
+    background-color: chocolate;
 }
